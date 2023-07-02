@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: three_numbers_max - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\wanglei\AppData\Local\Temp\RSP40DF.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/three_numbers_max.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\git\git_respository\c-algorithm\3.three_numbers_max\three_numbers_max.c"
+]
+Creating command line "cl.exe @C:\Users\wanglei\AppData\Local\Temp\RSP40DF.tmp" 
+Creating temporary file "C:\Users\wanglei\AppData\Local\Temp\RSP40E0.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/three_numbers_max.pdb" /debug /machine:I386 /out:"Debug/three_numbers_max.exe" /pdbtype:sept 
+".\Debug\three_numbers_max.obj"
+]
+Creating command line "link.exe @C:\Users\wanglei\AppData\Local\Temp\RSP40E0.tmp"
+<h3>Output Window</h3>
+Compiling...
+three_numbers_max.c
+Linking...
+
+
+
+<h3>Results</h3>
+three_numbers_max.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
